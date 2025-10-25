@@ -1,0 +1,62 @@
+.back{
+    width:100%;
+    height:100px;
+    object-fit:cover
+}
+.photo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-top:-80px;
+    margin-left:30px;
+    padding: 20px;
+}
+.myphoto{
+    width:220px;
+    height: 220px;
+    border-radius:70%;
+    border: 3px solid white
+}
+.main{
+    text-align: center ;
+    font-family:Fredoka one;
+    font-size: 50px;
+    color:slateblue
+
+}
+.det{
+    color:dimgrey;
+    line-height:0.5;
+    flex: 1;
+
+}
+#aboutme{
+    font-family:fantasy;
+    font-size: 40px;
+    color:slateblue;
+    margin-left:20px;
+    margin-bottom:5px
+    
+}
+#name{
+    margin-bottom: 0px
+}
+.details p{
+    margin-top: 1px
+}
+body{
+    margin: 20px
+}
+.info{
+    margin-top: 50px;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    border: 5px darkorchid solid;
+    border-bottom: 40px darkorchid solid;
+    border-radius: 10px;
+    width: 600px;
+    height: 200px;
+    float: left
+}
